@@ -1,6 +1,9 @@
 # Fine-Tuned Llama2 on a single dataset using LoRA and QLoRA techniques
 
 
+# Fine-Tuning:
+The process of taking a pre-trained model and adapting it to a new task or dataset.
+
 # LoRA:
 Efficiently adapts pre-trained models by updating a smaller subset of parameters, reducing computational cost and memory usage while preserving model performance.
 
