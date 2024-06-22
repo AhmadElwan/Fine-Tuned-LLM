@@ -34,3 +34,9 @@ Dataset Link: https://huggingface.co/datasets/PiyushLavaniya/HTML_Dataset_for_LL
 # Graduation Project Team
 #    - COMPS
 
+Github of team members:
+
+- Hamza Radaideh: https://github.com/HamzaRadaideh
+- Mohammad Subehi: https://github.com/mosubehi
+- Khaled Samara: https://github.com/Khaled270
+
